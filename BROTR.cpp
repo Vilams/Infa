@@ -78,6 +78,7 @@ while (true){
 }
 print(ggg,a);
 print(ggg2,a);
+print(ggg,a);
 srand(time(NULL));
 
 while(true){
