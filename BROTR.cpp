@@ -20,6 +20,8 @@ int main()
 	int a;
 	int b,num;
 	b=0;
+	srand(time(NULL));
+	cout <<"random number:"<<(rand()%100);
 	
 string hhh;
 	cin>>hhh;
