@@ -80,7 +80,7 @@ print(ggg,a);
 print(ggg2,a);
 srand(time(NULL));
 
-while(true){
+while(false){
 	b=0;
 	for (int i = 0; i < a; ++i)
 	{
