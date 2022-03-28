@@ -16,8 +16,9 @@ void print(char arr[], int row){
 
 int main()
 {
-	int flag=0;
-	int a,b,num;
+	int flag=1;
+	int a;
+	int b,num;
 	b=0;
 	
 string hhh;
