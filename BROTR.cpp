@@ -12,13 +12,19 @@ void print(char arr[], int row){
 	}
 	cout<<endl;
 }
-
+int square(int a){
+	return a*a;
+}
 
 int main()
 {
 	int flag=0;
 	int a,b,num;
 	b=0;
+	
+
+
+cout<<square(5);
 	
 string hhh;
 	cin>>hhh;
